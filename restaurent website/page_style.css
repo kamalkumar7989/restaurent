@@ -1,0 +1,209 @@
+#nav-item-1{
+    color:#323f4b;
+    font-family: "Roboto";
+}
+#nav-item-2{
+    color:#323f4b;
+    font-family: "Roboto";
+}
+#nav-item-3{
+    color:#323f4b;
+    font-family: "Roboto";
+}
+#nav-item-4{
+    color:#323f4b;
+    font-family: "Roboto";
+}
+.navbar-logo{
+    height:50px;
+    width: 50px;
+}
+.ban-sec-bg-container{
+    background-image: url("https://img.freepik.com/free-photo/boiling-cauldron-simmers-hearty-vegetable-soup-recipe-generated-by-ai_188544-10271.jpg?size=626&ext=jpg&uid=R103721226&ga=GA1.2.717452126.1686733424&semt=sph");
+    background-size: cover;
+    height:90vh;
+}
+.banner-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size:45px;
+    font-weight: 300;
+}
+.banner-caption{
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 300;
+    color:white;
+}
+.custom-button{
+    border-width: 0px;
+    border-radius: 8px;
+    width: 130px;
+    height: 50px;
+    color:white;
+    background-color: #d0b200;
+    margin-right: 10px;
+}
+.custom-button-2{
+    width: 130px;
+    height: 50px;
+    background-color: transparent;
+    color: #d0b200;
+    border-width: 1px;
+    border-style:solid;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+.wcu-section{
+    background-color: #f9fbfe;
+}
+.wcu-head{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size:28px;
+    color:#183b56;
+}
+.wcu-desc{
+    font-family: "Roboto";
+    font-size: 16px;
+    color:#5a7184;
+}
+.wcu-card{
+    background-color: white;
+    text-align: center;
+    border: 1px #e5eaf4 solid;
+    border-radius: 16px;
+}
+.wcu-card-img{
+    height: 90px;
+    width: 87px;
+}
+.wcu-card-head{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color:#323f4b;
+}
+.wcu-card-desc{
+    font-size:16px;
+    color:#7b8794;
+    font-family: "Roboto";
+}
+.offers{
+    color:#323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+.explore-menu-section{
+    background-color: white;
+}
+.EM-head{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size:28px;
+    color:#183b56;
+}
+.menu-item-card{
+    border-radius: 16px;
+}
+.menu-item-img{
+    border-radius: 16px;
+    height: 280px;
+    width: 290px;
+}
+.menu-item-head{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    margin-top:24px;
+    color: #323f4b;
+}
+.menu-item-link{
+    color:#d0b200;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size:18px;
+}
+.healthy-food-section{
+    background-color: white;
+}
+.H-and-F-head{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 22px;
+    color:#323f4b;
+}
+.H-and-F-desc{
+    font-size:16px;
+    color:#7b8794;
+    font-family: "Roboto";
+}
+.H-and-F-button{
+    font-family: "Roboto";
+    border-width: 0px;
+    border-radius: 8px;
+    height: 40px;
+    width:150px;
+    color:white;
+    background-color: #d0b200;
+}
+.H-and-F-img{
+    height: 250px;
+}
+.Del-and-pay-section{
+    background-color: white;
+}
+.D-and-P-head{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 22px;
+    color:#323f4b;
+}
+.D-and-P-desc{
+    font-size:16px;
+    color:#7b8794;
+    font-family: "Roboto";
+}
+.D-and-P-button{
+    font-family: "Roboto";
+    border-width: 0px;
+    border-radius: 8px;
+    height: 40px;
+    width:150px;
+    color:white;
+    background-color: #d0b200;
+}
+.D-and-P-img{
+    height: 250px;
+}
+.D-and-P-pay-options{
+    height:35px;
+    width: 60px;
+}
+.thanking-section{
+    background-color:#f1e07ad4;
+}
+.thank-head{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+    color:#323f4b;
+}
+.thank-desc{
+    font-size:20px;
+    color:#7b8794;
+    font-family: "Roboto";
+}
+.thank-button{
+    font-family: "Roboto";
+    border-width: 0px;
+    border-radius: 8px;
+    height: 40px;
+    width:150px;
+    color:white;
+    background-color: #d0b200;
+}
+.thanking-img{
+    height:300px;
+    width:280px;
+}
